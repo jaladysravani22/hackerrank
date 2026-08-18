@@ -1,6 +1,10 @@
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
+    print(a + b)
+    print(a - b)
+    print(a * b)
+
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
